@@ -15,9 +15,11 @@ body{
   justify-content: center;
 }
 button {
-  padding: 2rem;
-  border-radius: 50px;
-  font-size: 2rem;
+  padding: 1rem;
+  border-radius: 100px;
+  width: 80px;
+  height: 80px;
+  font-size: 35px;
   cursor: pointer;
   background-color: rgb(69, 65, 65);
   color: white;
@@ -27,6 +29,7 @@ button {
 }
 .equal{
   width: 90%;
+  border-bottom: 15px;
 }
 input{
   border-top-left-radius: 15px;
